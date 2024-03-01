@@ -2,7 +2,7 @@
 //  Model.swift
 //  Home_4month_6_UICollectionView
 //
-//  Created by A LINA on 1/3/24.
+//  Created by A LINA on 29/2/24.
 //
 
 import Foundation
